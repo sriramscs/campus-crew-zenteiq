@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.DS_Store
+Agent_prompt.md
+fixes_template.md
+logs.md
+plan.md
+readme.md
